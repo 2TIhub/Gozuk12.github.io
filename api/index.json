@@ -1,0 +1,26 @@
+{
+    "totalpurchases":"1",
+    "saintprice":"$1,000,000",
+    "administration":{
+        "displayname":"Administration",
+        "ranks":[
+            "Admin",
+            "Moderator",
+            "Helper",
+            "Trial Helper"
+        ],
+        "admins":[
+            ""
+        ],
+        "mods":[
+            "IcePhoenix0"
+        ],
+        "helpers":[
+            "Nikola526",
+            "Tichmondt"
+        ],
+        "trialHelpers":[
+            ""
+        ]
+    }
+}
